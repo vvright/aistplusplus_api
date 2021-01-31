@@ -107,4 +107,8 @@ data/
 
 .DS_Store
 
+# @author Song
 *.mp4
+*.json
+*.pkl
+
